@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Schedular/static/css/main.e2550714.css",
-    "main.js": "/Schedular/static/js/main.6098b181.js",
-    "static/js/453.ad9ea4e5.chunk.js": "/Schedular/static/js/453.ad9ea4e5.chunk.js",
+    "main.css": "/Schedular/static/css/main.3172eb58.css",
+    "main.js": "/Schedular/static/js/main.94d01394.js",
+    "static/js/453.23e5a0ea.chunk.js": "/Schedular/static/js/453.23e5a0ea.chunk.js",
     "static/media/logo.png": "/Schedular/static/media/logo.b4d197332480b7c4f6f9.png",
+    "service-worker.js": "/Schedular/service-worker.js",
     "index.html": "/Schedular/index.html",
-    "main.e2550714.css.map": "/Schedular/static/css/main.e2550714.css.map",
-    "main.6098b181.js.map": "/Schedular/static/js/main.6098b181.js.map",
-    "453.ad9ea4e5.chunk.js.map": "/Schedular/static/js/453.ad9ea4e5.chunk.js.map"
+    "main.3172eb58.css.map": "/Schedular/static/css/main.3172eb58.css.map",
+    "main.94d01394.js.map": "/Schedular/static/js/main.94d01394.js.map",
+    "453.23e5a0ea.chunk.js.map": "/Schedular/static/js/453.23e5a0ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2550714.css",
-    "static/js/main.6098b181.js"
+    "static/css/main.3172eb58.css",
+    "static/js/main.94d01394.js"
   ]
 }
