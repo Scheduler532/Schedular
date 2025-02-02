@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Schedular/static/css/main.cbc6336c.css",
-    "main.js": "/Schedular/static/js/main.b5e89cb8.js",
+    "main.js": "/Schedular/static/js/main.fb6aa8da.js",
     "static/js/453.23e5a0ea.chunk.js": "/Schedular/static/js/453.23e5a0ea.chunk.js",
     "static/media/logo.png": "/Schedular/static/media/logo.b4d197332480b7c4f6f9.png",
     "static/media/uniform_img.png": "/Schedular/static/media/uniform_img.32afbb4e8ea72aa9e7ff.png",
@@ -9,11 +9,11 @@
     "static/media/UserIconTentative.png": "/Schedular/static/media/UserIconTentative.09cf1f83a2026671bf51.png",
     "index.html": "/Schedular/index.html",
     "main.cbc6336c.css.map": "/Schedular/static/css/main.cbc6336c.css.map",
-    "main.b5e89cb8.js.map": "/Schedular/static/js/main.b5e89cb8.js.map",
+    "main.fb6aa8da.js.map": "/Schedular/static/js/main.fb6aa8da.js.map",
     "453.23e5a0ea.chunk.js.map": "/Schedular/static/js/453.23e5a0ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbc6336c.css",
-    "static/js/main.b5e89cb8.js"
+    "static/js/main.fb6aa8da.js"
   ]
 }
