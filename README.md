@@ -18,3 +18,5 @@ Scheduler v0.0.1を移植し、その後必要な機能を独自で追加して�
 
 # Creators
 これらのSchdulerプロジェクトは[Scheduler532](https://github.com/Scheduler532/)と[Wataru532](https://github.com/Wataru532/)によって進められている。
+
+© 2024-2025 Scheduler532 and Wataru532
