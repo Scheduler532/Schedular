@@ -1,10 +1,10 @@
-# Scheduler Dev
-Schedulerの開発版です。ベータ版を公開しています。<br>
-アップデート内容は[ここ](https://github.com/Wataru532/Scheduler-dev/blob/gh-pages/version.md)で見られます。
-
 # Scheduler
 Schedulerの公開版（安定版）です。毎日の時間割を個人に最適化して管理することができます。<br>
 一回のユーザー登録で簡単に使用可能。[使ってみる](https://Scheduler532.github.io/Schedular)
+
+# Scheduler Dev
+[Schedulerの開発版](https://wataru532.github.io/Scheduler-dev/)です。ベータ版を公開しています。<br>
+アップデート内容は[ここ](https://github.com/Wataru532/Scheduler-dev/blob/gh-pages/version.md)で見られます。
 
 # Scheduler Forum
 Schedulerに掲示板機能やクラス連絡機能をつけようと試みを行っています。<br>

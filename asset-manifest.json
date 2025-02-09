@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Schedular/static/css/main.3005fb2d.css",
-    "main.js": "/Schedular/static/js/main.e501cec3.js",
+    "main.js": "/Schedular/static/js/main.506e46fb.js",
     "static/js/453.23e5a0ea.chunk.js": "/Schedular/static/js/453.23e5a0ea.chunk.js",
     "static/media/logo.png": "/Schedular/static/media/logo.b4d197332480b7c4f6f9.png",
     "static/media/uniform_img.png": "/Schedular/static/media/uniform_img.32afbb4e8ea72aa9e7ff.png",
@@ -9,11 +9,11 @@
     "static/media/UserIconTentative.png": "/Schedular/static/media/UserIconTentative.09cf1f83a2026671bf51.png",
     "index.html": "/Schedular/index.html",
     "main.3005fb2d.css.map": "/Schedular/static/css/main.3005fb2d.css.map",
-    "main.e501cec3.js.map": "/Schedular/static/js/main.e501cec3.js.map",
+    "main.506e46fb.js.map": "/Schedular/static/js/main.506e46fb.js.map",
     "453.23e5a0ea.chunk.js.map": "/Schedular/static/js/453.23e5a0ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3005fb2d.css",
-    "static/js/main.e501cec3.js"
+    "static/js/main.506e46fb.js"
   ]
 }
